@@ -1,0 +1,12 @@
+C:\Users\arsen\source\repos\ClassLibrary\ClassForm\obj\Debug\ClassForm.csproj.AssemblyReference.cache
+C:\Users\arsen\source\repos\ClassLibrary\ClassForm\obj\Debug\ClassForm.Properties.Resources.resources
+C:\Users\arsen\source\repos\ClassLibrary\ClassForm\obj\Debug\ClassForm.csproj.GenerateResource.cache
+C:\Users\arsen\source\repos\ClassLibrary\ClassForm\obj\Debug\ClassForm.csproj.CoreCompileInputs.cache
+C:\Users\arsen\source\repos\ClassLibrary\ClassForm\bin\Debug\ClassForm.exe.config
+C:\Users\arsen\source\repos\ClassLibrary\ClassForm\bin\Debug\ClassForm.exe
+C:\Users\arsen\source\repos\ClassLibrary\ClassForm\bin\Debug\ClassForm.pdb
+C:\Users\arsen\source\repos\ClassLibrary\ClassForm\bin\Debug\ClassLibrary.dll
+C:\Users\arsen\source\repos\ClassLibrary\ClassForm\bin\Debug\ClassLibrary.pdb
+C:\Users\arsen\source\repos\ClassLibrary\ClassForm\obj\Debug\ClassForm.csproj.Up2Date
+C:\Users\arsen\source\repos\ClassLibrary\ClassForm\obj\Debug\ClassForm.exe
+C:\Users\arsen\source\repos\ClassLibrary\ClassForm\obj\Debug\ClassForm.pdb

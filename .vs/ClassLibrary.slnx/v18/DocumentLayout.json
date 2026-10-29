@@ -1,0 +1,211 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\arsen\\source\\repos\\ClassLibrary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F277C947-E7F6-4720-84BE-09BB7A887CC8}|ClassForm\\ClassForm.csproj|c:\\users\\arsen\\source\\repos\\classlibrary\\classform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F277C947-E7F6-4720-84BE-09BB7A887CC8}|ClassForm\\ClassForm.csproj|solutionrelative:classform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB7270A9-59B9-4AE9-8612-2D498AB0F58F}|TestDrivers\\TestDrivers.csproj|C:\\Users\\arsen\\source\\repos\\ClassLibrary\\testdrivers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB7270A9-59B9-4AE9-8612-2D498AB0F58F}|TestDrivers\\TestDrivers.csproj|solutionrelative:testdrivers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F277C947-E7F6-4720-84BE-09BB7A887CC8}|ClassForm\\ClassForm.csproj|C:\\Users\\arsen\\source\\repos\\ClassLibrary\\classform\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F277C947-E7F6-4720-84BE-09BB7A887CC8}|ClassForm\\ClassForm.csproj|solutionrelative:classform\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F277C947-E7F6-4720-84BE-09BB7A887CC8}|ClassForm\\ClassForm.csproj|C:\\Users\\arsen\\source\\repos\\ClassLibrary\\classform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F277C947-E7F6-4720-84BE-09BB7A887CC8}|ClassForm\\ClassForm.csproj|solutionrelative:classform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9699946-E22B-4656-82BD-370C6F02CB16}|ClassLibrary\\ClassLibrary.csproj|c:\\users\\arsen\\source\\repos\\classlibrary\\classlibrary\\classlibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9699946-E22B-4656-82BD-370C6F02CB16}|ClassLibrary\\ClassLibrary.csproj|solutionrelative:classlibrary\\classlibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73ACA2F4-ABF3-404B-8A26-849628BB0DFD}|UnitTestProject\\UnitTestProject.csproj|C:\\Users\\arsen\\source\\repos\\ClassLibrary\\unittestproject\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73ACA2F4-ABF3-404B-8A26-849628BB0DFD}|UnitTestProject\\UnitTestProject.csproj|solutionrelative:unittestproject\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB7270A9-59B9-4AE9-8612-2D498AB0F58F}|TestDrivers\\TestDrivers.csproj|C:\\Users\\arsen\\source\\repos\\ClassLibrary\\testdrivers\\ctest_driver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB7270A9-59B9-4AE9-8612-2D498AB0F58F}|TestDrivers\\TestDrivers.csproj|solutionrelative:testdrivers\\ctest_driver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 16,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:693468258:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1381365490:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2034403439:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:97839003:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:172771787:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\arsen\\source\\repos\\ClassLibrary\\ClassForm\\Form1.cs",
+              "RelativeDocumentMoniker": "ClassForm\\Form1.cs",
+              "ToolTip": "C:\\Users\\arsen\\source\\repos\\ClassLibrary\\ClassForm\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "ClassForm\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T18:20:42.832Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\arsen\\source\\repos\\ClassLibrary\\TestDrivers\\Program.cs",
+              "RelativeDocumentMoniker": "TestDrivers\\Program.cs",
+              "ToolTip": "C:\\Users\\arsen\\source\\repos\\ClassLibrary\\TestDrivers\\Program.cs",
+              "RelativeToolTip": "TestDrivers\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T09:34:06.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\arsen\\source\\repos\\ClassLibrary\\ClassForm\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "ClassForm\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\arsen\\source\\repos\\ClassLibrary\\ClassForm\\Form1.Designer.cs",
+              "RelativeToolTip": "ClassForm\\Form1.Designer.cs",
+              "ViewState": "AgIAALcAAAAAAAAAAAAcwOYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T09:31:28.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\arsen\\source\\repos\\ClassLibrary\\ClassForm\\Form1.cs",
+              "RelativeDocumentMoniker": "ClassForm\\Form1.cs",
+              "ToolTip": "C:\\Users\\arsen\\source\\repos\\ClassLibrary\\ClassForm\\Form1.cs",
+              "RelativeToolTip": "ClassForm\\Form1.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAIwHUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T21:19:17.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClassLibrary.cs",
+              "DocumentMoniker": "C:\\Users\\arsen\\source\\repos\\ClassLibrary\\ClassLibrary\\ClassLibrary.cs",
+              "RelativeDocumentMoniker": "ClassLibrary\\ClassLibrary.cs",
+              "ToolTip": "C:\\Users\\arsen\\source\\repos\\ClassLibrary\\ClassLibrary\\ClassLibrary.cs",
+              "RelativeToolTip": "ClassLibrary\\ClassLibrary.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwC4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T21:19:09.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CTest_Driver.cs",
+              "DocumentMoniker": "C:\\Users\\arsen\\source\\repos\\ClassLibrary\\TestDrivers\\CTest_Driver.cs",
+              "RelativeDocumentMoniker": "TestDrivers\\CTest_Driver.cs",
+              "ToolTip": "C:\\Users\\arsen\\source\\repos\\ClassLibrary\\TestDrivers\\CTest_Driver.cs",
+              "RelativeToolTip": "TestDrivers\\CTest_Driver.cs",
+              "ViewState": "AgIAAOYAAAAAAAAAAAAUwPMAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T20:51:40.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\arsen\\source\\repos\\ClassLibrary\\UnitTestProject\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "UnitTestProject\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\arsen\\source\\repos\\ClassLibrary\\UnitTestProject\\UnitTest1.cs",
+              "RelativeToolTip": "UnitTestProject\\UnitTest1.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAADwvwwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T20:46:51.19Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1286,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

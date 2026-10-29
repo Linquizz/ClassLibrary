@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="ClassForm/ClassForm.csproj" Id="f277c947-e7f6-4720-84be-09bb7a887cc8" />
+  <Project Path="ClassLibrary/ClassLibrary.csproj" Id="a9699946-e22b-4656-82bd-370c6f02cb16" />
+  <Project Path="TestDrivers/TestDrivers.csproj" Id="db7270a9-59b9-4ae9-8612-2d498ab0f58f" />
+  <Project Path="UnitTestProject/UnitTestProject.csproj" Id="73aca2f4-abf3-404b-8a26-849628bb0dfd" />
+</Solution>
